@@ -3,6 +3,7 @@ import { Footer } from "@/components/footer"
 import { AboutSection } from "@/components/about-section"
 import { ContactCTA } from "@/components/contact-cta"
 
+
 export const metadata = {
   title: "About Us | Seemcron Solutions",
   description: "Learn about Seemcron Solutions and our mission to empower careers through training and placement.",
